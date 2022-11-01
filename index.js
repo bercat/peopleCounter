@@ -15,7 +15,6 @@ function save() {
     saveEl.textContent += countStr;  
 
     setBack()
-
 }
 
 function setBack() {
